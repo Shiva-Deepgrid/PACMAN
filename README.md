@@ -17,8 +17,8 @@ When you click the "Start Game" button, the pacman or pacmen created should star
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
 # Road map
-In future i will learn advance concept of Bootstrap, React and Node
+In future i will learn advance concept of Bootstrap, React and Node.
 
 # License information
-MIT License
+MIT License.
 
